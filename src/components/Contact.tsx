@@ -39,10 +39,10 @@ export function Contact() {
             </h3>
             <p className="text-gray-700">
               <a
-                href="tel:+903122345678"
+                href="tel:+905446785891"
                 className="hover:text-green-700"
               >
-                0312 XXX XX XX
+                +90 544 678 58 91
               </a>
               <br />
               <a
