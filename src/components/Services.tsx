@@ -11,7 +11,7 @@ export function Services() {
     {
       title: "Lambri Sistemleri",
       description: "İç ve dış mekan lambri uygulamaları, montaj ve bakım hizmetleri",
-      image: "https://images.unsplash.com/photo-1634672652995-ee7525bce595?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3b29kJTIwcGxhbmtzJTIwbHVtYmVyJTIweWFyZHxlbnwxfHx8fDE3NTk5MTg5OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      image: "https://raw.githubusercontent.com/ufukakfirat-max/ismailsaglamyapi/refs/heads/main/src/pic/lambiri.jpeg",
       keywords: "lambri, ahşap lambri, duvar kaplaması"
     },
     {
