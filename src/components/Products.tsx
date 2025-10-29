@@ -28,6 +28,14 @@ export function Products() {
         "Yapı Malzemesi",
         "Özel Kesim Hizmetleri"
       ]
+    },
+    {
+      category: "Yalıtım Ürünleri",
+      items: [
+        "OSB",
+        "Shingle",
+        "Membran"
+      ]
     }
   ];
 
