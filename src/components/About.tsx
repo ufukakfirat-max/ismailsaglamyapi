@@ -19,7 +19,7 @@ export function About() {
               </p>
               <p>
                 Ankara ve çevre illerde binlerce müşteriye hizmet veren firmamız, kalite, güven ve 
-                müşteri memnuniyeti ilkelerinden ödün vermezz.
+                müşteri memnuniyeti ilkelerinden ödün vermez.
               </p>
             </div>
 
