@@ -19,7 +19,7 @@ export function Footer() {
               <div className="flex items-center">
                 <MapPin size={16} className="mr-2" />
                 <span>
-                  Ankara Sincan Sanayi Sitesi, Sincan/Ankara
+                  Ahi Evran Mah. 224 cadde No:56/B Sincan Sanayi Sitesi, Sincan/Ankara
                 </span>
               </div>
               <div className="flex items-center">
