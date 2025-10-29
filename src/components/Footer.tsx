@@ -11,7 +11,7 @@ export function Footer() {
             </h3>
             <p className="text-gray-300 mb-4 max-w-md">
               Ankara'da kereste, lambri ve orman ürünleri
-              sektöründe 15 yılı aşkın tecrübemizle kaliteli
+              sektöründe 20 yılı aşkın tecrübemizle kaliteli
               hizmet sunuyoruz. Projelerinizin güvenilir çözüm
               ortağıyız.
             </p>
@@ -19,7 +19,7 @@ export function Footer() {
               <div className="flex items-center">
                 <MapPin size={16} className="mr-2" />
                 <span>
-                  Ahi Evran Mah. 224 cadde No:56/B Sincan Sanayi Sitesi, Sincan/Ankara
+                  Ahi Evran Mah. 224 Cadde No:56/B Sincan Sanayi Sitesi, Sincan/Ankara
                 </span>
               </div>
               <div className="flex items-center">
