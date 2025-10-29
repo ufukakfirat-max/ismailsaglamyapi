@@ -24,7 +24,7 @@ export function Contact() {
               Adresimiz
             </h3>
             <p className="text-gray-700">
-              Ankara Sincan Sanayi Sitesi
+              Ahi Evran Mah. 224 cadde No:56/B Sincan Sanayi Sitesi
               <br />
               Sincan / Ankara
             </p>
