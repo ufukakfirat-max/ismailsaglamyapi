@@ -21,7 +21,7 @@ export function Header() {
             <div className="flex items-center space-x-4">
               <div className="flex items-center space-x-1">
                 <Phone size={14} />
-                <span>+90 544 678 58 91</span>
+                <span>+90 312 270 46 42</span>
               </div>
               <div className="flex items-center space-x-1">
                 <Mail size={14} />
