@@ -7,7 +7,7 @@ export function Hero() {
       <div 
         className="relative min-h-[600px] flex items-center bg-cover bg-center"
         style={{
-          backgroundImage: `url('https://www.yapikatalogu.com/Files/images/blog-mimaride-ahsabin-yeri-4.jpg')`
+          backgroundImage: `url('https://raw.githubusercontent.com/ufukakfirat-max/ismailsaglamyapi/refs/heads/main/src/pic/home3.jpeg')`
         }}
       >
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
