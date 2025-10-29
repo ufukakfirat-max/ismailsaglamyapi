@@ -39,10 +39,10 @@ export function Contact() {
             </h3>
             <p className="text-gray-700">
               <a
-                href="tel:+905446785891"
+                href="tel:+903122704642"
                 className="hover:text-green-700"
               >
-                +90 544 678 58 91
+                +90 312 270 46 42
               </a>
               <br />
               <a
@@ -95,7 +95,7 @@ export function Contact() {
                     Pazartesi - Cumartesi
                   </div>
                   <div className="text-gray-600">
-                    08:00 - 18:00
+                    08:00 - 19:00
                   </div>
                 </div>
               </div>
@@ -120,10 +120,10 @@ export function Contact() {
                 ulaşabileceğiniz numaramız:
               </p>
               <a
-                href="tel:+905446785891"
+                href="tel:+903122704642"
                 className="text-orange-600 hover:text-orange-700 text-lg"
               >
-                +90 544 678 58 91
+                +90 312 270 46 42
               </a>
             </div>
           </div>
